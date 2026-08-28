@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Environments and editors
+.venv/
+venv/
+.idea/
+.vscode/
+*.swp
+
+# Datasets and generated artefacts
+/data/
+/runs/
+/results/
+/logs/
+/outputs/
+*.pickle
+*.pkl
+*.parquet
+*.feather
+
+# Operating systems
+.DS_Store
+Thumbs.db
+

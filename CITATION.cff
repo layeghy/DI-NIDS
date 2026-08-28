@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "DI-NIDS research code"
+type: software
+version: 0.1.0
+date-released: 2026-08-27
+authors:
+  - family-names: Layeghy
+    given-names: Siamak
+  - family-names: Baktashmotlagh
+    given-names: Mahsa
+  - family-names: Portmann
+    given-names: Marius
+preferred-citation:
+  type: article
+  title: "DI-NIDS: Domain Invariant Network Intrusion Detection System"
+  authors:
+    - family-names: Layeghy
+      given-names: Siamak
+    - family-names: Baktashmotlagh
+      given-names: Mahsa
+    - family-names: Portmann
+      given-names: Marius
+  journal: Knowledge-Based Systems
+  volume: 273
+  year: 2023
+  doi: 10.1016/j.knosys.2023.110626
+
