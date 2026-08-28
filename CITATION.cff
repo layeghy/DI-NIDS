@@ -3,7 +3,7 @@ message: "If you use this software, please cite the associated article."
 title: "DI-NIDS research code"
 type: software
 version: 0.1.0
-date-released: 2026-08-27
+date-released: 3 August 2023
 authors:
   - family-names: Layeghy
     given-names: Siamak
