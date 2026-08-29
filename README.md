@@ -228,5 +228,4 @@ and adversarial manipulation. See [SECURITY.md](SECURITY.md).
 
 ## Licence
 
-An open-source licence has not yet been selected. Until a licence file is added, standard copyright
-restrictions apply. The repository owner should choose a licence before announcing the release.
+This project is licensed under the BSD 3-Clause License.See [LICENSE](LICENSE).
