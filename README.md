@@ -101,7 +101,7 @@ The paper uses the NetFlow-v2 versions of two benchmark datasets:
 - [NF-UNSW-NB15-v2](https://espace.library.uq.edu.au/view/UQ:ffbb0c1)
 
 The broader collection is available from the
-[UQ ML-Based NIDS Datasets page](https://staff.itee.uq.edu.au/marius/NIDS_datasets/).
+[ML-Based NIDS Datasets page](https://staff.itee.uq.edu.au/marius/NIDS_datasets/).
 Dataset files are not redistributed in this repository. Follow the terms attached to each
 dataset record.
 
@@ -215,10 +215,6 @@ The original archive did not include trained domain-classifier checkpoints.
 - Exact dataset snapshots, the original execution environment, and random-fold records are not
   distributed with this repository.
 - The paper's complete numerical results have not yet been regenerated from this packaged release.
-- Some implementation details are more specific than the high-level description in the paper.
-  These details are documented for transparent comparison.
-- OSVM training can be expensive on millions of benign flows. Full experiments require substantial
-  memory and compute.
 
 See [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md) for the settings that should accompany
 reported results.
