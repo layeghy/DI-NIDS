@@ -9,11 +9,6 @@ representations. Target labels are not passed to either training loss. For compa
 original experiments, the legacy mode uses target `Attack` metadata only to stratify its held-out
 split and later uses target labels for evaluation.
 
-> **Reproducibility status:** this repository provides the reference implementation and supplied
-> checkpoints. The complete experiments from the paper have not yet been rerun in the packaged
-> environment. Read the [reproducibility notes](docs/REPRODUCIBILITY.md) before comparing new
-> outputs with the published tables.
-
 ## Paper
 
 Siamak Layeghy, Mahsa Baktashmotlagh, and Marius Portmann, "DI-NIDS: Domain invariant network
